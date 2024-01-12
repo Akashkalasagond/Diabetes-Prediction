@@ -15,8 +15,8 @@ This project focuses on predicting the likelihood of diabetes in individuals bas
 ## Technologies Used
 
 - Python
-- TensorFlow (or any other deep learning framework you used)
-- Jupyter Notebooks (optional, if applicable)
+- Sciket-Learn
+- Jupyter Notebooks 
 
 ## Usage
 
@@ -33,20 +33,14 @@ This project focuses on predicting the likelihood of diabetes in individuals bas
 
 3. **Run the Model:**
     ```bash
-    python predict_diabetes.py
+    python Diabetes_Prediction.py
     ```
 
 ## Results
 
-Provide insights into the model's performance, including any visualizations of key metrics or predictions.
+- **Accuracy:** 83%
+- **AUC Curve:** 89%
 
-## Future Improvements
-
-Share thoughts on potential enhancements, such as incorporating additional features, experimenting with different neural network architectures, or exploring other machine learning algorithms.
-
-## Contributing
-
-If you're interested in contributing to this project, feel free to fork the repository and submit a pull request.
 
 ---
 
